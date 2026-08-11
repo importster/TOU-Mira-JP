@@ -202,15 +202,15 @@
   <string name="TermsTargetSymbolsTitle">ターゲットマーク</string>
   <string name="TermsTargetSymbolsInfo">ターゲットマークは会議中やゲーム中にプレイヤー名に表示され、該当する役職や死者のみに見えます。 • エクスキューショナーの標的は \%color=#643B1F\%X\%/color\% • インクイジターの異端者は死者に対して \%color=#D94291\%$\%/color\% • フェアリーの対象は \%color=#B3FFFF\%★\%/color\% と表示されます。</string>
   <string name="TermsProtectionSymbolsTitle">保護マーク</string>
-  <string name="TermsProtectionSymbolsInfo">保護マークは会議中やゲーム中に表示され、ほとんどの攻撃を無効化していることを示します。対象役職や保護されている本人、死者にのみ見えます。 • メディックのシールドは \%color=#006600\%+\%/color\% • クレリックのバリアは \%color=#00FFB3\%Ω\%/color\% • ワーデンの要塞化は \%color=#9900FF\%π\%/color\% • ミラーキャスターの反射は \%color=#90A2C3\%〚〛\%/color\% • フェアリーの保護は \%color=#FFD900\%★\%/color\% • 守護天使の保護は \%color=#66AAF3\%☀\%/color\% • オラクルのお告げは \%color=#BF00BF\%†\%/color\% と表示されます。</string>
-  <string name="TermsStatusEffectSymbolsTitle">ステータス効果マーク</string>
-  <string name="TermsStatusEffectInfo">ステータス効果マークは会議中やゲーム中に表示され、該当する役職や死者のみに見えます。 • 放火魔の塗油は \%color=#FF4D00\%Δ\%/color\% • プレイグブリンガーの感染は \%color=#E6FFB3\%¥\%/color\% • 操られているプレイヤーは \%color=#FF2660\%⦿\%/color\% • 恐喝されたターゲットは \%color=#2A1119\%M\%/color\% • 催眠状態は \%color=#D53F42\%@\%/color\% • スペルスリンガーの呪いは \%color=#FF0000\%乂\%/color\% • 国王の騎士は \%color=#EA535B\%♠\%/color\% と表示されます。</string>
+  <string name="TermsProtectionSymbolsInfo">保護マークは会議中やゲーム中に表示され、ほとんどの攻撃を無効化していることを示します。対象役職や保護されている本人、死者にのみ見えます。 • メディックのシールドは \%color=#006600\%+\%/color\% • 聖職者のバリアは \%color=#00FFB3\%Ω\%/color\% • ワーデンの要塞化は \%color=#9900FF\%π\%/color\% • ミラーキャスターの反射は \%color=#90A2C3\%〚〛\%/color\% • フェアリーの保護は \%color=#FFD900\%★\%/color\% • 守護天使の保護は \%color=#66AAF3\%☀\%/color\% • オラクルのお告げは \%color=#BF00BF\%†\%/color\% と表示されます。</string>
+  <string name="TermsStatusEffectSymbolsTitle">ステータス効果のマーク</string>
+  <string name="TermsStatusEffectInfo">ステータス効果のマークは会議中やゲーム中に表示され、該当する役職や死者のみに見えます。 • 放火魔の塗油は \%color=#FF4D00\%Δ\%/color\% • プレイグブリンガーの感染は \%color=#E6FFB3\%¥\%/color\% • 操られているプレイヤーは \%color=#FF2660\%⦿\%/color\% • 恐喝されたターゲットは \%color=#2A1119\%M\%/color\% • 催眠状態は \%color=#D53F42\%@\%/color\% • スペルスリンガーの呪いは \%color=#FF0000\%乂\%/color\% • 国王の騎士は \%color=#EA535B\%♠\%/color\% と表示されます。</string>
   <string name="TermsCrewRoleAlignmentsTitle">\%color=#8CFFFF\%クルー陣営\%/color\%のサブ分類</string>
-  <string name="TermsCrewRoleAlignmentsInfo">• \%color=#8CFFFF\%調査系\%/color\% 役職は他のプレイヤーの情報を集め、誰がクルーかを見極めることができます。 • \%color=#8CFFFF\%キル系\%/color\% 役職は他の人を\%color=#FF8B95\%キル\%/color\%できますが、\%color=#8CFFFF\%クルー\%/color\%を殺してしまうと報いを受けることがあります。 • \%color=#8CFFFF\%保護系\%/color\% 役職は他のプレイヤー(時には自分自身も)を守る手段を持っています。 • \%color=#8CFFFF\%権力系\%/color\% 役職は投票に影響を与えたり、他のクルーより強力な能力を持っています。 • \%color=#8CFFFF\%支援系\%/color\% 役職はクルー全体を助けたり、自分自身に有利な能力を持っています。</string>
+  <string name="TermsCrewRoleAlignmentsInfo">• \%color=#8CFFFF\%調査系\%/color\% は他のプレイヤーの情報を集め、誰がクルーかを見極めることができます。 • \%color=#8CFFFF\%キル系\%/color\% は他の人を\%color=#FF8B95\%キル\%/color\%できますが、\%color=#8CFFFF\%クルー\%/color\%を殺してしまうと報いを受けることがあります。 • \%color=#8CFFFF\%保護系\%/color\% は他のプレイヤー(時には自分自身も)を守る手段を持っています。 • \%color=#8CFFFF\%権力系\%/color\% は投票に影響を与えたり、他のクルーより強力な能力を持っています。 • \%color=#8CFFFF\%支援系\%/color\% はクルー全体を助けたり、自分自身に有利な能力を持っています。</string>
   <string name="TermsNeutRoleAlignmentsTitle">\%color=#8A8A8A\%第三陣営\%/color\%のサブ分類</string>
-  <string name="TermsNeutRoleAlignmentsInfo">• \%color=#8A8A8A\%温厚系\%/color\% 役職は単独で勝つことができず、他陣営を助けたり最後まで生き残ることを目指します。 • \%color=#8A8A8A\%邪悪系\%/color\% 役職は手段を選ばず目標を達成し、勝利を奪ったりゲームを急展開させます。 • \%color=#8A8A8A\%キル系\%/color\% 役職はあらゆる手段を使って最後の\%color=#FF8B95\%キラー\%/color\%として生き残ることを目指します。 • \%color=#8A8A8A\%異端系\%/color\% 役職は独自の勝利目標を持ち、温厚・邪悪・キル系が混ざったような特殊な動きをします。</string>
+  <string name="TermsNeutRoleAlignmentsInfo">• \%color=#8A8A8A\%温厚系\%/color\% は単独で勝つことができず、他陣営を助けたり最後まで生き残ることを目指します。 • \%color=#8A8A8A\%邪悪系\%/color\% は手段を選ばず目標を達成し、勝利を奪ったりゲームを急展開させます。 • \%color=#8A8A8A\%キル系\%/color\% はあらゆる手段を使って最後の\%color=#FF8B95\%キラー\%/color\%として生き残ることを目指します。 • \%color=#8A8A8A\%異端系\%/color\% は独自の勝利目標を持ち、温厚・邪悪・キル系が混ざったような特殊な動きをします。</string>
   <string name="TermsImpRoleAlignmentsTitle">\%color=#FF0000\%インポスター陣営\%/color\%のサブ分類</string>
-  <string name="TermsImpRoleAlignmentsInfo">• \%color=#FF0000\%潜伏系\%/color\% 役職は\%color=#FF8B95\%キル\%/color\%しつつ、姿を消したり他人を欺く能力を持ちます。 • \%color=#FF0000\%キル系\%/color\% 役職は強化・変更された\%color=#FF8B95\%キル\%/color\%能力を持ち、より効率的にキルが行えます。 • \%color=#FF0000\%権力系\%/color\% 役職は圧倒的に強力な能力を持ち、戦況を大きく有利に傾けます。 • \%color=#FF0000\%支援系\%/color\% 役職は死体を隠したり、キルしやすい状況を作り出すサポートをします。</string>
+  <string name="TermsImpRoleAlignmentsInfo">• \%color=#FF0000\%潜伏系\%/color\% は\%color=#FF8B95\%キル\%/color\%しつつ、姿を消したり他人を欺く能力を持ちます。 • \%color=#FF0000\%キル系\%/color\% は強化・変更された\%color=#FF8B95\%キル\%/color\%能力を持ち、より効率的にキルが行えます。 • \%color=#FF0000\%権力系\%/color\% は圧倒的に強力な能力を持ち、戦況を大きく有利に傾けます。 • \%color=#FF0000\%支援系\%/color\% は死体を隠したり、キルしやすい状況を作り出すサポートをします。</string>
   <string name="TermsRoleBucketsTitle">役職リストのバケット(枠)</string>
   <string name="TermsRoleBucketsInfo">役職リストバケットは「役職リスト設定」使用時の抽選枠です。 • コモン\%color=#8CFFFF\%クルー\%/color\%: 調査・保護・支援系が含まれます。 • コモン\%color=#FF0000\%インポスター\%/color\%: 潜伏・支援系が含まれます。 • コモン\%color=#8A8A8A\%第三陣営\%/color\%: 温厚・邪悪系が含まれます。 • スペシャル\%color=#8CFFFF\%クルー\%/color\%: キル・権力系が含まれます。 • スペシャル\%color=#FF0000\%インポスター\%/color\%: キル・権力系が含まれます。 • スペシャル\%color=#8A8A8A\%第三陣営\%/color\%: キル・異端系が含まれます。 • ワイルドカード\%color=#8A8A8A\%第三陣営\%/color\%: 温厚・邪悪・異端系が含まれます。 • 非\%color=#FF0000\%インポスター\%/color\%: すべての\%color=#8A8A8A\%第三陣営\%/color\%と\%color=#8CFFFF\%クルー\%/color\%が含まれます。 • ランダムバケット: 該当陣営の全役職からランダムに指定されます。 • Anyバケット: 有効化されている全役職から抽選されます。</string>
   <string name="TermsCommonSlangTitle">よく使われる略称・用語</string>
@@ -362,7 +362,7 @@
   <string name="JaileeChatTitle">\%player\% (収監中)</string>
   <string name="SystemChatTitle">システム</string>
   <string name="AnticheatChatTitle">アンチチートシステム</string>
-  <string name="AnticheatIllegalRpcMessage">ロビー外の機能/能力が \%player\% によって実行されました。チート/不正利用の可能性があります。</string>
+  <string name="AnticheatIllegalRpcMessage">ロビー外の機能/能力が \%player\% によって実行されました。(チート/不正利用の可能性があります。)</string>
   <string name="AnticheatMessage">\%player\% は以下の異なるMODを使用して参加しています:</string>
   <string name="AnticheatKickMissingMessage">\%player\% は以下のMODが不足しています:</string>
   <string name="AnticheatKickChatMessage">\%player\% は不正なMODを使用していたためキックされました:</string>
@@ -374,10 +374,10 @@
     <string name="SpectatorDraftError">ドラフト進行中に観戦モードを切り替えることはできません！</string>
   <string name="SpectatorToggleOn">あなたを観戦者に設定しました！</string>
   <string name="SpectatorToggleOff">観戦モードを解除しました！</string>
-  <string name="SpectatorHostError">ホストが /spec コマンドを無効にしています！</string>
+  <string name="SpectatorHostError">ホストが /spec コマンドを無効にしています</string>
   <string name="SummaryCommandList">summary:gamesummary:gamesum</string>
   <string name="RolesCommandList">roles:role:r</string>
-  <string name="SummaryMissingError">表示できるゲームサマリーがありません！</string>
+  <string name="SummaryMissingError">表示できるリザルトがありません！</string>
   <string name="NerfMeCommandList">nerf:nerfme:vision</string>
   <string name="NerfMeLobbyError">ロビー外で弱体化を設定することはできません！</string>
   <string name="NerfMeToggleOn">弱体化状態をオンにしました。あなたの視界は半分になります。</string>
@@ -387,7 +387,7 @@
   <string name="SetNameRequirementError">名前は1文字以上、12文字以内である必要があります！</string>
   <string name="SetNameSimilarError">\%name\% と似すぎている名前のプレイヤーが既にいます！別の名前にしてください。</string>
   <string name="SetNameSuccess">次のマッチからの名前を「\%name\%」に変更しました。</string>
-  <string name="WelcomeMessageBlurb">Town of Us Mira v\%modVersion\% へようこそ！\%nl\%役職や属性の詳しい情報は、画面右上の地球儀アイコン(Wiki)や検索バーを活用してね。また、チャットで /help と打つとコマンド一覧が見れるよ。\%nl\%※このメッセージは設定メニューから非表示にできます。</string>
+  <string name="WelcomeMessageBlurb">Town of Us Mira v\%modVersion\% へようこそ！\%nl\%役職や属性の詳しい情報は、画面右上の地球儀アイコン(Wiki)や検索バーを活用してね。また、チャットで /help と打つとコマンド一覧が見れるよ。\%nl\%※このメッセージは設定で非表示にできます。</string>
   <string name="InfoCommandList">info</string>
   <string name="InfoCommandDescription">/info - 最後に受け取った役職情報メッセージを再表示します</string>
   <string name="InfoCommandNoInfo">再表示できる役職情報がありません。</string>
@@ -424,7 +424,7 @@
   <string name="HostEndMeetingNotif">ホストが強制的に会議を終了させました。</string>
   <!-- End Game Summary Details -->
   <string name="GameSummaryModeButton">リザルト: サマリー</string>
-  <string name="EndGameSummary">ゲームサマリー</string>
+  <string name="EndGameSummary">リザルト</string>
   <string name="EndResult">結果: \%victoryType\%</string>
   <string name="CrewmatesWin">クルー陣営の勝利</string>
   <string name="ImpostorsWin">インポスター陣営の勝利</string>
@@ -495,7 +495,7 @@
     <string name="DiedToTempRevive">一時蘇生終了</string>
   <!-- Status Effects -->
   <string name="TouFirstDeathShield">初手死亡シールド</string>
-  <string name="TouClericBarrier">クレリックのバリア</string>
+  <string name="TouClericBarrier">聖職者のバリア</string>
   <string name="TouMedicShield">メディックのシールド</string>
   <string name="TouWardenFort">ワーデンの要塞</string>
   <string name="TouDoused">塗油済み</string>
@@ -655,7 +655,7 @@
   <string name="HnsRoleChameleon">カメレオン</string>
   <string name="HnsRoleChameleonTabHint">カメレオンのヒント</string>
   <string name="HnsRoleChameleonTabDescription">鬼から一時的に身を隠せ。</string>
-  <string name="HnsRoleChameleonWikiDescription">カメレオンは鬼から隠れるために一時的に透明化できるクルーです。</string>
+  <string name="HnsRoleChameleonWikiDescription">カメレオンは一時的ですが透明になれるクルーです。</string>
   <string name="HnsRoleChameleonSwoop">透明化</string>
   <string name="HnsRoleChameleonSwoopWikiDescription">鬼から姿が見えなくなります。</string>
   <string name="HnsRoleChameleonUnswoop">透明化解除</string>
@@ -669,14 +669,14 @@
   <string name="HnsRoleMystic">ミスティック</string>
   <string name="HnsRoleMysticTabHint">ミスティックのヒント</string>
   <string name="HnsRoleMysticTabDescription">キルが発生した場所を察知しろ。</string>
-  <string name="HnsRoleMysticWikiDescription">ミスティックは、キルが発生するたびにその場所を示す矢印が表示されるクルーです。</string>
+  <string name="HnsRoleMysticWikiDescription">ミスティックは、キルが発生するたびにその場所を示す矢印が表示されます。</string>
   <!-- Mystic Options -->
   <string name="HnsOptionMysticDeadBodyArrowDuration">死体矢印の表示時間</string>
   <!-- Snitch Wiki / Description -->
   <string name="HnsRoleSnitch">スニッチ</string>
   <string name="HnsRoleSnitchTabHint">スニッチのヒント</string>
   <string name="HnsRoleSnitchTabDescription">タスクで制限時間を早く減らせるが、\%nl\%代わりに自分の居場所が暴露される。</string>
-  <string name="HnsRoleSnitchWikiDescription">スニッチはタスクを進めることで通常より早く残り時間を減少させることができますが、代償として鬼に自分の居場所がバレてしまうクルーです。</string>
+  <string name="HnsRoleSnitchWikiDescription">スニッチはタスクを進めることで通常より早く残り時間を減少させることができますが、代償として鬼に自分の居場所がバレてしまいます。</string>
   <!-- Snitch Options -->
   <string name="HnsOptionSnitchCommonTaskMultiplier">コモンタスクの倍率</string>
   <string name="HnsOptionSnitchShortTaskMultiplier">ショートタスクの倍率</string>
@@ -686,12 +686,12 @@
   <string name="HnsRoleNoisemaker">ノイズメーカー</string>
   <string name="HnsRoleNoisemakerTabHint">ノイズメーカーのヒント</string>
   <string name="HnsRoleNoisemakerTabDescription">殺された時に全員へ位置を知らせろ。</string>
-  <string name="HnsRoleNoisemakerWikiDescription">ノイズメーカーはキルされた際、マップ上の全プレイヤーに赤枠のインジケーターで自分の死体位置を告げるクルーです。</string>
+  <string name="HnsRoleNoisemakerWikiDescription">ノイズメーカーはキルされた際、マップ上の全プレイヤーに赤枠のインジケーターで自分の死体位置を知らせます。</string>
   <!-- Frosty Modifier Wiki / Description -->
   <string name="HnsModifierFrosty">べとべと</string>
-  <string name="HnsModifierFrostyTabDescription">死んだときにキラーを少しの間遅くする。</string>
-  <string name="HnsModifierFrostyWikiDescription">あなたが殺された後、キラーの移動速度を低下させます！</string>
-  <string name="HnsModifierFrostyTriggeredNotif">\%player\% は \%modifier\% だったため、\%time\% 秒間足が遅くなった！</string>
+  <string name="HnsModifierFrostyTabDescription">あなたを殺した人の行動を少しの間遅くする。</string>
+  <string name="HnsModifierFrostyWikiDescription">あなたを殺した人の移動速度を低下させます！</string>
+  <string name="HnsModifierFrostyTriggeredNotif">\%player\%は\%modifier\%していたため、\%time\%秒間足が遅くなった！</string>
   <!-- Frosty Options -->
   <string name="HnsOptionFrostyChillDuration">鈍足の持続時間</string>
   <string name="HnsOptionFrostyChillStartSpeed">鈍足開始時の速度</string>
@@ -720,9 +720,9 @@
   <string name="HnsRoleCamouflager">カモフラージャー</string>
   <string name="HnsRoleCamouflagerTabHint">カモフラージャーのヒント</string>
   <string name="HnsRoleCamouflagerTabDescription">全員の見た目を自分と同じにして混乱させろ。</string>
-  <string name="HnsRoleCamouflagerWikiDescription">カモフラージャーは一時的に全プレイヤーの姿を自分と同じ外見に変えることができるインポスターです。</string>
+  <string name="HnsRoleCamouflagerWikiDescription">カモフラージャーは一時的に全プレイヤーの姿を同じ外見に変えることができます。</string>
   <string name="HnsRoleCamouflagerCamo">カモフラージュ</string>
-  <string name="HnsRoleCamouflagerCamoWikiDescription">全体にカモフラージュを発動させて混ざり込みます。</string>
+  <string name="HnsRoleCamouflagerCamoWikiDescription">全体にカモフラージュを発動させて混ざり込む。</string>
   <!-- Camouflager Options -->
   <string name="HnsOptionCamouflagerCamoUses">カモフラージュの合計使用回数</string>
   <string name="HnsOptionCamouflagerCamoCooldown">カモフラージュのクールダウン</string>
@@ -733,24 +733,24 @@
   <string name="CultistRoleNecromancer">ネクロマンサー</string>
   <string name="CultistRoleNecromancerIntroBlurb">死者を蘇らせて手下にしろ</string>
   <string name="CultistRoleNecromancerTabDescription">クルーを殺し、信徒の死体を\%nl\%インポスターの手下として復活させろ！</string>
-  <string name="CultistRoleNecromancerWikiDescription">ネクロマンサーは通常通りキルを行いつつ、クルー陣営の信徒の死体をインポスター信者として蘇らせることができるインポスターカルト教祖です。</string>
+  <string name="CultistRoleNecromancerWikiDescription">ネクロマンサーは通常通りキルを行いつつ、クルー陣営の信徒の死体をインポスター信者として蘇らせることができます。</string>
   <string name="CultistRoleNecromancerRevive">復活</string>
   <string name="CultistRoleNecromancerReviving">復活処理中</string>
   <string name="CultistRoleNecromancerReviveWikiDescription">一番近くにある変換可能な死体をインポスターとして蘇らせます。</string>
   <!-- Crewmate Roles -->
   <!-- Altruist - Crewmate Protective -->
   <string name="TouRoleAltruist">オルトルイスト</string>
-  <string name="TouRoleAltruistIntroBlurb">死んだクルーを蘇生させろ</string>
-  <string name="TouRoleAltruistTabDescription">死んだクルーをまとめて蘇生させる。</string>
-  <string name="TouRoleAltruistTabDescriptionGroupSacrifice">自分の命と引き換えに、\%nl\%死んだクルーたちをまとめて蘇生させる。</string>
+  <string name="TouRoleAltruistIntroBlurb">死んだクルーを生き返らせろ</string>
+  <string name="TouRoleAltruistTabDescription">死んだクルーを蘇生させる。</string>
+  <string name="TouRoleAltruistTabDescriptionGroupSacrifice">自分の命と引き換えに、\%nl\%死んだクルーたちを蘇生する。</string>
   <string name="TouRoleAltruistTabDescriptionSacrifice">自分の命と引き換えに死体を蘇生させる。</string>
   <!-- Altruist Wiki / Abilities -->
-  <string name="TouRoleAltruistWikiDescription">オルトルイストは死んだクルーを蘇生できるクルー保護系役職です。ただし、自身や蘇生されたクルーは緊急ボタンを押すことができなくなります。</string>
+  <string name="TouRoleAltruistWikiDescription">オルトルイストは死んだクルーを蘇生できます。自身や蘇生されたクルーは緊急ボタンを押すことができません。</string>
   <string name="TouRoleAltruistRevive">蘇生</string>
   <string name="TouRoleAltruistReviving">蘇生中</string>
   <string name="TouRoleAltruistRevivedNotif">オルトルイストによって生き返った！</string>
-  <string name="TouRoleAltruistReviveSuccessNotif">\%player\% の蘇生に成功した！</string>
-  <string name="TouRoleAltruistReviveWikiDescription">近くにある死体のグループをまとめて蘇生します。</string>
+  <string name="TouRoleAltruistReviveSuccessNotif">\%player\%の蘇生に成功した！</string>
+  <string name="TouRoleAltruistReviveWikiDescription">近くにある死体をまとめて蘇生します。</string>
   <string name="TouRoleAltruistReviveGroupSacrificeWikiDescription">近くの死体グループを蘇生します。蘇生が完了すると、自身は死体を残さずに死亡します。</string>
   <string name="TouRoleAltruistReviveSacrificeWikiDescription">一番近くの死体を蘇生します。蘇生が完了すると、自身は死体を残さずに死亡します。</string>
   <!-- Altruist Options -->
@@ -775,44 +775,44 @@
   <string name="TouRoleAurialIntroBlurb">オーラの乱れを感じ取れ</string>
   <string name="TouRoleAurialTabDescription">オーラ内で使用された能力を察知する</string>
   <!-- Aurial Wiki -->
-  <string name="TouRoleAurialWikiDescription">オーリアルは、近くでプレイヤーが能力を使用すると通知を受けるクルー役職です。</string>
+  <string name="TouRoleAurialWikiDescription">オーリアルは、近くでプレイヤーが能力を使用するとそれについて通知を受けるクルー役職です。</string>
   <!-- Aurial Options -->
   <string name="TouOptionAurialAuraInnerRadius">発光カラー範囲</string>
   <string name="TouOptionAurialAuraOuterRadius">発光最大範囲</string>
   <string name="TouOptionAurialSenseDuration">察知の持続時間</string>
   <!-- Cleric - Crewmate Protective -->
-  <string name="TouRoleCleric">クレリック</string>
+  <string name="TouRoleCleric">聖職者</string>
   <string name="TouRoleClericIntroBlurb">クルーたちを救い出せ</string>
   <string name="TouRoleClericTabDescription">クルーのデバフを解除し、\%nl\%バリアで一切の干渉を防ぐ。</string>
   <string name="TouRoleClericTabProtecting">バリア対象: \%player\%</string>
   <!-- Cleric Wiki / Abilities -->
-  <string name="TouRoleClericWikiDescription">クレリックはクルーのデバフを解除し、バリアを付与して能力による影響を防ぐことができるクルー役職です。</string>
+  <string name="TouRoleClericWikiDescription">聖職者はクルーのデバフを解除し、バリアを付与して能力による影響を防ぐことができるクルー役職です。</string>
   <string name="TouRoleClericBarrier">バリア</string>
   <string name="TouRoleClericBarrierWikiDescription">クルーへの干渉を防ぎます。バリアは \%BarrierCooldown\% 秒間持続します。</string>
   <string name="TouRoleClericCleanse">浄化</string>
   <string name="TouRoleClericCleanseWikiDescription">対象のネガティブ効果(塗油、ハック、感染、恐喝、盲目、フラッシュ、催眠)を全て解除します。</string>
   <!-- Cleric Feedback -->
-  <string name="TouRoleClericMessageTitle">クレリックのフィードバック</string>
-  <string name="TouRoleClericCleansedEffects">\%player\% のデバフを浄化しました:</string>
-  <string name="TouRoleClericCleansedNoEffects">\%player\% にネガティブ効果は見つかりませんでした。</string>
+  <string name="TouRoleClericMessageTitle">聖職者のフィードバック</string>
+  <string name="TouRoleClericCleansedEffects">\%player\%のデバフを浄化しました:</string>
+  <string name="TouRoleClericCleansedNoEffects">\%player\%にネガティブ効果は見つかりませんでした。</string>
   <!-- Cleric Options -->
   <string name="TouOptionClericBarrierCooldown">バリアのクールダウン</string>
   <string name="TouOptionClericBarrierDuration">バリアの持続時間</string>
   <string name="TouOptionClericCleanseCooldown">浄化のクールダウン</string>
   <string name="TouOptionClericProtectedSeesBarrier">保護されたプレイヤーにバリアを表示</string>
-  <string name="TouOptionClericAttackNotif">攻撃された際にクレリックへ通知</string>
+  <string name="TouOptionClericAttackNotif">攻撃された際に聖職者へ通知</string>
   <!-- Deputy - Crewmate Killing -->
   <!-- Deputy Wiki / Abilities -->
   <string name="TouRoleDeputy">デピュティ</string>
   <string name="TouRoleDeputyIntroBlurb">クルーを見張りキラーを捕まえろ</string>
   <string name="TouRoleDeputyTabDescription">クルーを見張り、死んだら会議でそのキラーを撃ち抜け！</string>
-  <string name="TouRoleDeputyWikiDescription">デピュティはプレイヤーを見張ることができるクルー役職です。見張っていた対象が死亡すると通知を受け、次の会議でそのキラーを撃ち抜くことができます。成功すればキラーが死亡し、失敗してもペナルティはありません。</string>
+  <string name="TouRoleDeputyWikiDescription">デピュティはプレイヤーを見張り、見張っていた対象が死亡すると通知を受け、次の会議でそのキラーの射殺を試みることができます。成功すればキラーが死亡します。失敗してもペナルティはありません。</string>
   <string name="TouRoleDeputyCamp">張り込み</string>
   <string name="TouRoleDeputyCampWikiDescription">プレイヤーを見張り、死亡時に通知を受けます。死亡後、会議でキラーの射殺を試みることができます。</string>
   <!-- Deputy Feedback -->
-  <string name="TouRoleDeputyRevealedText"> (ブラスト殺)</string>
+  <string name="TouRoleDeputyRevealedText">(ブラスト殺)</string>
   <string name="TouRoleDeputyCampNotif">\%player\% の死亡を待ち、会議でキラーを撃ち抜け。</string>
-  <string name="TouRoleDeputyCampedKillNotif">見張っていた \%player\% が殺された！会議で仇を討て。</string>
+  <string name="TouRoleDeputyCampedKillNotif">見張っていた\%player\%が殺された！会議で仇を討て。</string>
   <string name="TouRoleDeputyKillerWarnNotif">デピュティがターゲットを見張っていたぞ、気をつけろ！</string>
   <string name="TouRoleDeputyMessageTitle">デピュティのフィードバック</string>
   <string name="TouRoleDeputyMissedShot">射撃に失敗した！相手がキラーではないか、無敵状態だ。</string>
@@ -824,10 +824,10 @@
   <string name="TouOptionDeputyEnumRevealPlayer">デピュティを公開</string>
   <!-- Forensic - Crewmate Investigative -->
   <!-- Forensic Wiki / Abilities -->
-  <string name="TouRoleForensic">フォレンジック</string>
+  <string name="TouRoleForensic">調査員</string>
   <string name="TouRoleForensicIntroBlurb">事件現場を調査してキラーを特定しろ</string>
   <string name="TouRoleForensicTabDescription">事件現場を調査し、現場にいたプレイヤーを特定しろ。</string>
-  <string name="TouRoleForensicWikiDescription">フォレンジックは事件現場を調査し、現場に立ち入ったプレイヤーを調べることができるクルー役職です。該当者は赤く点滅します。</string>
+  <string name="TouRoleForensicWikiDescription">調査員は事件現場を調査し、現場に立ち入ったプレイヤーを調べることができます。該当者は赤く点滅します。</string>
   <string name="TouRoleForensicInspect">調査</string>
   <string name="TouRoleForensicInspectWikiDescription">死体が発生した現場を調査します。現場を調査後にプレイヤーを調べると手がかりが得られ、次の会議でキラーの役職に関するレポートを受け取ります。</string>
   <string name="TouRoleForensicExamine">検査</string>
@@ -839,7 +839,7 @@
   <string name="TouOptionForensicRoleDuration">役職情報が得られる時間制限</string>
   <string name="TouOptionForensicFactionDuration">陣営情報が得られる時間制限</string>
   <!-- Forensic Feedback -->
-  <string name="TouRoleForensicMessageTitle">フォレンジックの検死レポート</string>
+  <string name="TouRoleForensicMessageTitle">調査員の検死レポート</string>
   <string name="TouRoleForensicBodyError">死体から情報を得られなかった。\%nl\%死亡時間: \%time\%秒前。</string>
   <string name="TouRoleForensicBodyOld">死体が古すぎて情報を得られない。\%nl\%死亡時間: \%time\%秒前。</string>
   <string name="TouRoleForensicBodySuicide">自殺のようだ！\%nl\%死亡時間: \%time\%秒前。</string>
@@ -854,21 +854,21 @@
   <string name="TouRoleBarkeeper">バーキーパー</string>
     <string name="TouRoleBarkeeperIntroBlurb">悪党を酔わせて能力を封じろ</string>
     <string name="TouRoleBarkeeperTabDescription">悪党をブロックして \%blockTime\% 秒間能力を封じろ。</string>
-    <string name="TouRoleBarkeeperWikiDescription">バーキーパーはプレイヤーと一緒に酒を飲んでロールブロックできるクルー役職です。また、酒をこぼすことでプレイヤーの移動速度を変化させられます。</string>
-    <string name="TouRoleBarkeeperRoleblock">ロールブロック</string>
+    <string name="TouRoleBarkeeperWikiDescription">バーキーパーはプレイヤーと一緒に酒を飲んで能力を封じます。また、酒をこぼすことでプレイヤーの移動速度を変化させられます。</string>
+    <string name="TouRoleBarkeeperRoleblock">酔い</string>
     <string name="TouRoleBarkeeperRoleblocking">飲み交わし中</string>
     <string name="TouRoleBarkeeperRoleblockWikiDescription">プレイヤーと一緒に酒を飲み、\%blockTime\% 秒間能力を封じます。</string>
-    <string name="TouRoleBarkeeperRoleblockWikiDescriptionWithHangover">プレイヤーと一緒に酒を飲み、\%blockTime\% 秒間能力を封じます。ブロック終了後、\%overTime\% 秒間二日酔い状態になります。</string>
+    <string name="TouRoleBarkeeperRoleblockWikiDescriptionWithHangover">プレイヤーと一緒に酒を飲み、\%blockTime\% 秒間能力を封じます。酔いの終了後、\%overTime\% 秒間二日酔い状態になります。</string>
     <string name="TouRoleBarkeeperSpill">酒をこぼす</string>
     <string name="TouRoleBarkeeperSpilling">溢れ中</string>
     <string name="TouRoleBarkeeperSpillWikiDescription">酒をこぼし、直後なら通過者の速度を上げ、古くなれば減速させます。各プレイヤー1回のみ発動します。</string>
     <string name="TouRoleBarkeeperSpillSpeedBuffNotif">足元に酒がこぼれている！移動速度が上がったぞ！</string>
     <string name="TouRoleBarkeeperSpillSpeedDebuffNotif">足元に古い酒がへばりついている... 足が重くなった。</string>
     <!-- Barkeeper Options -->
-    <string name="TouOptionBarkeeperRoleblockCooldown">ロールブロックのクールダウン</string>
-    <string name="TouOptionBarkeeperRoleblockDelayMin">ロールブロックの最小遅延</string>
-    <string name="TouOptionBarkeeperRoleblockDelayMax">ロールブロックの最大遅延</string>
-    <string name="TouOptionBarkeeperRoleblockDelaySummarized">ロールブロック遅延: \%min\%秒 - \%max\%秒</string>
+    <string name="TouOptionBarkeeperRoleblockCooldown">酔いのクールダウン</string>
+    <string name="TouOptionBarkeeperRoleblockDelayMin">酔いの最小遅延</string>
+    <string name="TouOptionBarkeeperRoleblockDelayMax">酔いの最大遅延</string>
+    <string name="TouOptionBarkeeperRoleblockDelaySummarized">酔いの遅延: \%min\%秒 - \%max\%秒</string>
     <string name="TouOptionBarkeeperSpillDelay">酒が固まるまでの時間</string>
     <string name="TouOptionBarkeeperSpillEffectDuration">こぼれた酒の影響時間</string>
     <string name="TouOptionBarkeeperSpillBuffDuration">鈍足化に変わるまでの時間</string>
@@ -922,7 +922,7 @@
   <string name="TouRoleHunterCaughtPlayersText">捕捉したプレイヤー:</string>
   <string name="TouRoleHunterStalk">追尾</string>
   <string name="TouRoleHunterStalking">追尾中</string>
-  <string name="TouRoleHunterWikiDescription">ハンターはラウンド中にプレイヤーを追尾できるクルー役職です。追尾されたプレイヤーが能力を使用した場合、ハンターはそのプレイヤーをいつでも(相手がクルーであっても)キルできるようになります。</string>
+  <string name="TouRoleHunterWikiDescription">ハンターはプレイヤーを追尾し、追尾されたプレイヤーが能力を使用した際にハンターはそのプレイヤーをキルできるようになります。</string>
   <string name="TouRoleHunterStalkWikiDescription">追尾するターゲットを選択します。合計 \%hunterMaxStalkUsages\% 人まで追尾可能です。追尾中に能力を使用したプレイヤーはヒットリストに追加され、いつでもキル可能になります。</string>
   <string name="TouRoleHunterStalkNotif">\%player\% が能力を使用した場合、ラウンド中いつでもキルできるようになります。</string>
   <string name="TouRoleHunterCaughtInteractionNotif">\%player\% が他のプレイヤーへ能力を使用しました！</string>
@@ -949,9 +949,9 @@
   <string name="TouRoleImitatorCrewmateImitation">クルー役職の模倣</string>
   <string name="TouRoleImitatorCrewmateImitationWikiDescription">ポリティシャンとメイヤー以外のすべてのクルー役職を利用可能です。看守やプロセキューターなどの会議能力は使用できず、ヴィジランテはミスショット耐性を得られません。</string>
   <string name="TouRoleImitatorNeutralCounterparts">第三陣営の代替役職</string>
-  <string name="TouRoleImitatorNeutralCounterpartsWikiDescription">アムネジアック ⇨ メディック | ドゥーム ⇨ ヴィジランテ | エクスキューショナー ⇨ スニッチ\%nl\%グリッチ ⇨ シェリフ | フェアリー ⇨ クレリック | インクイジター ⇨ オラクル\%nl\%ジェスター ⇨ プラマー | マーセナリー ⇨ ワーデン\%nl\%プレイグ/ペスティ ⇨ オーリアル | ソウルコレクター ⇨ ミディアム | ワーウルフ ⇨ ハンター</string>
+  <string name="TouRoleImitatorNeutralCounterpartsWikiDescription">アムネジアック ⇨ メディック | ドゥーム ⇨ ヴィジランテ | エクスキューショナー ⇨ スニッチ\%nl\%グリッチ ⇨ シェリフ | フェアリー ⇨ 聖職者 | インクイジター ⇨ オラクル\%nl\%ジェスター ⇨ プラマー | マーセナリー ⇨ ワーデン\%nl\%プレイグ/ペスティ ⇨ オーリアル | ソウルコレクター ⇨ ミディアム | ワーウルフ ⇨ ハンター</string>
   <string name="TouRoleImitatorImpostorCounterparts">インポスターの代替役職</string>
-  <string name="TouRoleImitatorImpostorCounterpartsWikiDescription">ボマー ⇨ トラッパー | ヒプノティスト ⇨ ルックアウト | ジャニター ⇨ フォレンジック\%nl\%マイナー ⇨ エンジニア | スカベンジャー ⇨ ソナー\%nl\%アンダーテイカー ⇨ アルトルイスト | ワーロック ⇨ ベテラン</string>
+  <string name="TouRoleImitatorImpostorCounterpartsWikiDescription">ボマー ⇨ トラッパー | ヒプノティスト ⇨ ルックアウト | ジャニター ⇨ 調査員\%nl\%マイナー ⇨ エンジニア | スカベンジャー ⇨ ソナー\%nl\%アンダーテイカー ⇨ アルトルイスト | ワーロック ⇨ ベテラン</string>
   <!-- Imitator Options -->
   <string name="TouOptionImitatorImitateNeutrals">第三陣営の代替役職を模倣可能</string>
   <string name="TouOptionImitatorImitateImpostors">インポスターの代替役職を模倣可能</string>
@@ -962,10 +962,10 @@
   <string name="TouOptionImitatorGuessEnumActiveOrCached">イミテーター または 模倣中の役職</string>
   <!-- Investigator - Crewmate Investigative --><!-- インベスティゲーター -->
   <!-- Investigator Wiki / Description -->
-  <string name="TouRoleInvestigator">調査員</string>
+  <string name="TouRoleInvestigator">インベスティゲーター</string>
   <string name="TouRoleInvestigatorIntroBlurb">足跡を追って悪党を追いつめろ</string>
   <string name="TouRoleInvestigatorTabDescription">全員の足跡が見えるぞ。</string>
-  <string name="TouRoleInvestigatorWikiDescription">調査員はゲームを通じて他人の足跡が見えるクルー役職です。透明化中のプレイヤーの足跡は見えません。</string>
+  <string name="TouRoleInvestigatorWikiDescription">インベスティゲーターはゲームを通じて他人の足跡が見えるクルー役職です。透明化中のプレイヤーの足跡は見えません。</string>
   <!-- Investigator Options -->
   <string name="TouOptionInvestigatorFootprintSeperated">足跡の付与基準</string>
   <string name="TouOptionInvestigatorFootprintSize">足跡のサイズ</string>
@@ -1706,20 +1706,20 @@
     <!-- Bootlegger - Impostor Support -->
     <!-- Bootlegger Wiki / Abilities -->
     <string name="TouRoleBootlegger">ブートレガー</string>
-    <string name="TouRoleBootleggerIntroBlurb">クルーの能力をロールブロックして封じろ</string>
-    <string name="TouRoleBootleggerTabDescription">クルーをロールブロックし、\%blockTime\% 秒間能力を封じろ。\%nl\%同じ相手に何度も酒を飲ませれば毒殺できるぞ。</string>
-    <string name="TouRoleBootleggerWikiDescription">ブートレガーは他のプレイヤーと一緒に酒を飲んでロールブロックできるインポスター役職です。同じプレイヤーを3回ロールブロックすると、そのプレイヤーは毒死します。</string>
+    <string name="TouRoleBootleggerIntroBlurb">クルーの能力を封じろ</string>
+    <string name="TouRoleBootleggerTabDescription">クルーに酒を飲ませて\%blockTime\% 秒間能力を封じろ。\%nl\%同じ相手に何度も酒を飲ませれば毒殺できるぞ。</string>
+    <string name="TouRoleBootleggerWikiDescription">ブートレガーは他のプレイヤーと一緒に酒を飲んで能力を封じることができます。同じプレイヤーに3回酒を飲ませると、そのプレイヤーは毒死します。</string>
     <string name="TouRoleBootleggerSicken">吐き気</string>
     <string name="TouRoleBootleggerSickening">悪酔い中</string>
     <string name="TouRoleBootleggerPoison">毒殺</string>
     <string name="TouRoleBootleggerPoisoning">毒殺中</string>
     <string name="TouRoleBootleggerMessageTitle">ブートレガーのフィードバック</string>
     <string name="TouRoleBootleggerSickenFeedbackAffected">飲まされた酒のせいで急に気分が悪くなった！次にブートレガーから酒を飲まされると、毒死してしまうぞ！</string>
-    <string name="TouRoleBootleggerSickenFeedbackBootlegger">ターゲットの \%player\% が酒の副作用に気付いた！次に相手をロールブロックした時、そいつは毒死するぞ。</string>
+    <string name="TouRoleBootleggerSickenFeedbackBootlegger">ターゲットの \%player\% が酒の副作用に気付いた！次に相手を酒を飲ませた時、そいつは毒死するぞ。</string>
     <!-- Bootlegger Options -->
-    <string name="TouOptionBootleggerRoleblockCooldown">ロールブロックのクールダウン</string>
-    <string name="TouOptionBootleggerRoleblockDelayMin">ロールブロックの最小遅延</string>
-    <string name="TouOptionBootleggerRoleblockDelayMax">ロールブロックの最大遅延</string>
+    <string name="TouOptionBootleggerRoleblockCooldown">酔いのクールダウン</string>
+    <string name="TouOptionBootleggerRoleblockDelayMin">酔いの最小遅延</string>
+    <string name="TouOptionBootleggerRoleblockDelayMax">酔いの最大遅延</string>
   <!-- Bomber Wiki / Abilities -->
   <string name="TouRoleBomber">ボマー</string>
   <string name="TouRoleBomberIntroBlurb">爆弾を投下してクルーをまとめ狩りしろ</string>
@@ -1785,7 +1785,7 @@
   <string name="TouRoleHerbalistConfuse">混乱</string>
   <string name="TouRoleHerbalistConfuseWikiDescription">菌の胞子でプレイヤーを混乱させ、誰が誰だか識別できないようにします。</string>
   <string name="TouRoleHerbalistProtect">保護</string>
-  <string name="TouRoleHerbalistProtectWikiDescription">他のインポスターを含むプレイヤーを、あたかもクレリックのように一時的に保護します。</string>
+  <string name="TouRoleHerbalistProtectWikiDescription">他のインポスターを含むプレイヤーを、あたかも聖職者のように一時的に保護します。</string>
   <!-- Not in code yet -->
 
   <!-- Hypnotist Wiki / Abilities -->
@@ -2422,7 +2422,7 @@
   <!-- Drunk Wiki / Description -->
   <string name="TouModifierDrunk">ドランク</string>
   <string name="TouModifierDrunkTabDescription">酔っ払っており、移動操作が反転しているぞ。</string>
-  <string name="TouModifierDrunkWikiDescription">移動操作が永続的に反転します。また、通常のロールブロックに対して免疫を持ちます。</string>
+  <string name="TouModifierDrunkWikiDescription">移動操作が永続的に反転します。また、通常の酔いに対して免疫を持ちます。</string>
   <!-- Flash -->
   <!-- Flash Wiki / Description -->
   <string name="TouModifierFlash">フラッシュ</string>
@@ -2657,7 +2657,7 @@
   <!-- Investigator Wiki / Description -->
   <string name="TouModifierInvestigatorIntroBlurb">他人の足跡が見える</string>
   <string name="TouModifierInvestigatorTabDescription">全員の足跡が見えるぞ。</string>
-  <string name="TouModifierInvestigatorWikiDescription">調査員はゲームを通じて他人の足跡が見えます。透明化中のプレイヤーの足跡は見えません。</string>
+  <string name="TouModifierInvestigatorWikiDescription">インベスティゲーターはゲームを通じて他人の足跡が見えます。透明化中のプレイヤーの足跡は見えません。</string>
   <!-- Multitasker -->
   <!-- Multitasker Wiki / Description -->
   <string name="TouModifierMultitasker">マルチタスカー</string>
