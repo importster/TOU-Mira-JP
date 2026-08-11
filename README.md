@@ -1,2 +1,1 @@
 - 本家 : https://github.com/AU-Avengers/TOU-Mira
-- dllファイルはTOUMiaからja_JP.xmlファイルだけを変更してビルドしたものです。
